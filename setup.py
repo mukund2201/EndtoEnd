@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "EndtoEnd"
 AUTHOR_USER_NAME = "mukund2201"
-SRC_REPO = "cnnClassifier"
+SRC_REPO = "CnnClassifier"
 AUTHOR_EMAIL = "shahmk2003@gmail.com"
 
 
